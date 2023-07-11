@@ -16,7 +16,7 @@ https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/2da6c543-7504-4e2
 
 ## Development
 
-We are working on the open source content right now to enable a broader development of the project and to allow contributions from all related domains.
+We are working on generating new open source content right now for this project to enable a broader development of the project and to allow contributions from all related domains.
 
 ## Funding
 
