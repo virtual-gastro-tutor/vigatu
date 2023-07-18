@@ -1,13 +1,10 @@
 # ViGaTu - Virtual Gastro Tutor
-## Project
-The ViGaTu project aims to create a VR-based teaching-learning system that will allow medical professionals, including experts, to acquire the knowledge and abilities required to perform screening colonoscopies that adhere to guidelines.
+## Project & Framework
+The ViGaTu project aims to create a VR-based teaching-learning system that will enable medical professionals, to acquire the knowledge and skills necessary to perform guideline-based screening colonoscopies. ViGaTu is based on a modular framework for the generation of VR simulations, which is published here.
 
 <pre>Actual Endoscopy room                                                          Endoscopy Room in VR</pre>
 ![room_lightning-2048x809](https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/1d0870ec-e0d4-4f71-adaa-98dd89feb5c3)
 
-
-## Framework
-The project has a modular framework for the generation of VR simulations to accelerate learning in endoscopy.
 
 <pre>The video below shows the 360 view of the actual endoscopy room and the endoscopy room in VR.</pre>
 <pre> It also demonstrates the view and interaction with objects inside the simulation.</pre>
@@ -15,8 +12,8 @@ The project has a modular framework for the generation of VR simulations to acce
 https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/2da6c543-7504-4e29-b276-f4449febe449
 
 ## Development
+Future developments of this framework will include full lessons with 3D graphics as shown in the video. Multilingual support will also be available.
 
-We are working on generating new open source content right now for this project to enable a broader development of the project and to allow contributions from all related domains.
 
 ## Funding
 
@@ -26,7 +23,7 @@ The German Federal Ministry of Education and Research is sponsoring the initiati
 
 Funding code 01PG20005
 
-
+## Supporters
 ![Funding-Vigatu](https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/5743c22c-dc7d-4a16-ae23-ff73d21cd461)
 
 
