@@ -25,3 +25,18 @@ The German Federal Ministry of Education and Research is sponsoring the initiati
 ![bmbf-englisch](https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/6e1aacdb-0b76-4a43-bacb-1bbe841d8d5d)
 
 Funding code 01PG20005
+
+
+![Funding-Vigatu](https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/5743c22c-dc7d-4a16-ae23-ff73d21cd461)
+
+
+
+## Collaborating partners
+
+![Contributors1](https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/af50978d-1cb5-475e-80cd-b60bccebca60)
+
+![Contributors2](https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/c69da24c-62cb-45c1-8935-de541e89beee)
+
+![Contributors3](https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/b18bfedd-b190-4100-9182-372aff4c2eed)
+
+![Contributors4](https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/92adcbfc-5c29-4bc9-9bd7-4095bffe3928)
