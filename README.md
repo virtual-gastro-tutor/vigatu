@@ -2,6 +2,9 @@
 ## Project & Framework
 The ViGaTu project aims to create a VR-based teaching-learning system that will enable medical professionals, to acquire the knowledge and skills necessary to perform guideline-based screening colonoscopies. ViGaTu is based on a modular framework for the generation of VR simulations, which is published here.
 
+### NOTE
+The following images and video conatin 3D graphics from ThreeDee GmBH.
+
 <pre>Actual Endoscopy room                                                          Endoscopy Room in VR</pre>
 ![room_lightning-2048x809](https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/1d0870ec-e0d4-4f71-adaa-98dd89feb5c3)
 
