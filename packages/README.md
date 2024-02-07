@@ -1,3 +1,5 @@
+The following license applies only to 3D graphics, texts, and story presented.
+
 [![CC BY 4.0][cc-by-shield]][cc-by]
 by Uniklinik Würzburg, Alexander Hann, Dorothea Henniger, Tobias Malzacher, Costanza De Maria, Daniel Fitting, Venkatesh Parayitam, Boban Sudarevic; Bildungswerk eV Herne, Monika Engelke; Universität Ulm, Timo Ropinski, Julian Kreiser, Tina Seufert, Melina Klepsch, Eva Wierzba, Valentin Riemer.
 
