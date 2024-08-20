@@ -23,6 +23,7 @@ https://github.com/virtual-gastro-tutor/vigatu/assets/49564753/e8d8fcb3-e4c3-4cf
 
 ## Development
 Future developments of this framework will include full lessons with 3D graphics as shown in the video. Multilingual support will also be available.
+
 **NEW** Vigatu now works on Meta Quest 3
 
 
